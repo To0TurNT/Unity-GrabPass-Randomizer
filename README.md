@@ -82,7 +82,7 @@ what it was written for.
 
 ## Why this is free
 
-I wrote this as a gift for a friend. He's now selling it for $15, with "made my own that I
+I wrote this as a gift for a friend. He's now selling it for $10, with "made my own that I
 could sell, don't worry didn't skid anything".
 
 The version he's selling has a disclaimer at the bottom promising no shaders were "uploaded,
