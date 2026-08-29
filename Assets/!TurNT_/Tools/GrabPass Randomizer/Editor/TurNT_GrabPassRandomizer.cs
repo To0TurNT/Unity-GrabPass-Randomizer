@@ -4,7 +4,7 @@
 //
 //  This started as a gift. I wrote it for a "friend", stuffed it full of
 //  jokes, and handed it over. He is now selling it for
-//  $15 with "made my own that I could sell, don't worry didn't skid anything".
+//  $10 with "made my own that I could sell, don't worry didn't skid anything".
 //
 //  What actually happened is my file went into GPT with "remove all references
 //  to TurNT and re-word it". That works on names. It does not work on jokes,
